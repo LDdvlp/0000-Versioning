@@ -1,6 +1,9 @@
 # 0000-Versioning
 
-**v.1.00**
+[Versionnage sémantique | EduTech Wiki](https://edutechwiki.unige.ch/fr/Versionnage_s%C3%A9mantique)
+
+**Version.ModificationMajeure.ModificationMineure.CorrectionOuPatch**
+**v.1.0.0**
 
 [Version d'un logiciel | Wikipédia](https://fr.wikipedia.org/wiki/Version_d%27un_logiciel)
 
